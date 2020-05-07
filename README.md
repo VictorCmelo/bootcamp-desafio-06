@@ -1,5 +1,5 @@
 <h1 align= "center">
-  <img src="https://ik.imagekit.io/sdvictor/logo_desafio_06_kM7QVJ9_Y.jpg">
+  <img src="src/assets/logo.svg">
 </h1>
 
 <h1>
@@ -15,7 +15,7 @@
 ---
 ## 🚧 Sobre
 
-O projeto **BootFinances** foi desenvolvido como um desafio final do módulo de primeiros projetos ReactJs do **Bootcamp GoStack**.
+O projeto **GoFinances** foi desenvolvido como um desafio final do módulo de primeiros projetos utlizando ReactJs do **Bootcamp GoStack**.
 
 ---
 
