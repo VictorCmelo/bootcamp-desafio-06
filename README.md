@@ -24,7 +24,8 @@ O projeto **GoFinances** foi desenvolvido como um desafio final do módulo de pr
 O projeto desenvolvido utilizando:
 - ReactJS
 - Axios
-- Integração com o [BackEnd]() em NodeJS
+- TypeScript
+- Integração com o [BackEnd](https://github.com/VictorCmelo/bootcamp-desafio-05) em NodeJS
 
 ---
 
